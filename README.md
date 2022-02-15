@@ -32,6 +32,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 CYLINDERCOMPONENT.HTML:
 <style>
     h2{
@@ -236,7 +237,7 @@ import { RectangleComponent } from './rectangle/rectangle.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
-
+```
 
 ## OUTPUT:
 ![Output](https://github.com/MSowmya28/AngularCalculation/blob/main/mathematicalcalculationangular.PNG)
