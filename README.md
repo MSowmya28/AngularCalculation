@@ -239,6 +239,7 @@ export class AppModule { }
 
 
 ## OUTPUT:
+![Output](https://github.com/MSowmya28/AngularCalculation/blob/main/mathematicalcalculationangular.PNG)
 
 
 
